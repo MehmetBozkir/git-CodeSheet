@@ -8,7 +8,7 @@ Starting with the basics, this command makes a copy of the remote to the local m
 ```bash
 git clone <repo:url>
 ```
-(The repo looks like: https://github.com/MehmetBozkir/git-CodeSheet.git)
+(The repo looks like: https://github.com/MehmetBozkir/React_Tic-Tac-Toe-Game.git)
 
 ## Commit and Push
 This set of commands is used to make changes, save them and push them to the remote, better explained step by step:
